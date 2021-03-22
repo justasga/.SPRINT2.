@@ -128,7 +128,7 @@ mysqli_close($conn);
 
 ?>
 <div class="footer">
-  <p><a href="https://github.com/justasga">Projekto kodas</a></p>
+  <p><a href="https://github.com/justasga/.SPRINT2.">Projekto kodas</a></p>
 </div>
 </body>
 </html>
