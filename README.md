@@ -17,6 +17,6 @@ Features:
 Still missing:
 
 1. Delete employee and project
-2. Edit employee data (
+2. Edit employee data 
 3.Edit project data
 4.Insert new project
